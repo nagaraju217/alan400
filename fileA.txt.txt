@@ -1,2 +1,3 @@
 this is fileA
 this is changes
+this is staging 

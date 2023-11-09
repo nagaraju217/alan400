@@ -1,0 +1,2 @@
+this is file b
+for testing to merge th efile to feature branch
